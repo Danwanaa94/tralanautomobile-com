@@ -757,8 +757,9 @@ button:focus {
     position: absolute;
     width: 97%;
     z-index: 12;
-    top: 260px;
-    margin: 0px auto; }
+    top: 325px;
+    margin: 0px auto;
+   }
   #showcase .showcase-text h2 {
     color: #fff; }
   #showcase .showcase-text p {
@@ -770,7 +771,9 @@ button:focus {
   #showcase .showcase-slider .owl-controls .owl-page.active span, #showcase .showcase-slider .owl-controls.clickable .owl-page:hover span {
     filter: Alpha(Opacity=100);
     opacity: 1;
-    background: #3ecf8e; }
+    background: black;
+  
+  }
   #showcase .showcase-slider .owl-controls .owl-page span {
     display: block;
     width: 12px;
